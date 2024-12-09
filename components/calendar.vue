@@ -64,7 +64,6 @@
 });
     this.calendar.render();
     },
-
     methods: {
         eventPage(){
             if(this.newEvent.title && this.newEvent.date){
@@ -85,7 +84,6 @@
       }
         },
     },
-
 };
 </script>
 

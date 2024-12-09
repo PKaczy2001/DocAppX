@@ -2,9 +2,6 @@
 <div id="header">
       <h1>DocAppX</h1>
   </div>
-  <div>
-    <Calendar />
-  </div>
   <div id="navigation-container">
   <nav>
     <button @click="$router.push('/calendar')">📅 Kalender</button>
